@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ListingSearch.Api/ListingSearch.Api.csproj" />
+  <Project Path="ListingSearch.Tests/ListingSearch.Tests.csproj" />
+</Solution>
